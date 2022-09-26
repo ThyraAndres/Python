@@ -1,0 +1,7 @@
+La figura 62 muestra las actividades del diseño de sistemas. Cada actividad aborda cada uno
+de los asuntos que describimos antes. El ataque a cualquiera de esos asuntos puede dar lugar a
+cambios en la descomposición de los subsistemas y presentar nuevos asuntos. Como Vera cuando
+describamos cada una de estas actividades, el diseño de sistemas es una actividad muy iterativa,
+que conduce en forma continua a la identificación de nuevos subsistemas, a la modificación de los
+subsistemas existentes y a revisiones en el nivel del sistema que tienen un impacto en todos los
+subsistemas. Pero primero describamos el concepto de subsistema con mayor detalle
